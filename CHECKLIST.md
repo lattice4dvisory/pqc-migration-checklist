@@ -260,5 +260,5 @@
 
 ---
 
-*Maintained by Lattice Advisory | latticeadvisory@gmail.com*  
+*Maintained by Lattice Advisory | lattice4dvisory@gmail.com*  
 *Aligned with: NIST FIPS 203/204/205, EU DORA, NSA CNSA 2.0, MAS TRM*
